@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "guardring")(type "KiCad")(uri "${KIPRJMOD}/guardring.pretty")(options "")(descr ""))
+)
